@@ -1,0 +1,1 @@
+- [Контест от 08.10.2019](https://github.com/IsFilimonov/Interviews/tree/master/YandexContest/)

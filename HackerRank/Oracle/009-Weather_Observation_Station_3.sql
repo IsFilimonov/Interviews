@@ -1,0 +1,4 @@
+SELECT city
+FROM STATION
+WHERE mod(id, 2) = 0
+GROUP BY city;
